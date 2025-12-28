@@ -7,6 +7,8 @@
 
 # toe-studio
 
+[![CI](https://github.com/Cbaird26/toe-studio/workflows/CI/badge.svg)](https://github.com/Cbaird26/toe-studio/actions)
+
 Studio application for Theory of Everything (ToE) simulations, visualizations, and interactive exploration.
 
 ## Overview
